@@ -9,3 +9,5 @@ User: projetolccv
 password: projetolccv
 
 Foi usado o banco de dados PostGreSQL, salvo na AWS.
+
+A Documentação da API também está disponibilizada, foi usado a drf_yasg para a construç
