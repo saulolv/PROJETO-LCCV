@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Meu Site{% endblock %}</title>
+    {% block extra_head %}
+    <!-- Aqui podem ser adicionados quaisquer arquivos CSS ou JS necessários -->
+    {% endblock %}
+</head>
+<body>
+    <nav>
+        <!-- Aqui pode ser definido um menu de navegação -->
+    </nav>
+    <main>
+        {% block content %}
+        <!-- Este é o bloco principal onde o conteúdo específico de cada página será exibido -->
+        {% endblock %}
+    </main>
+    <footer>
+        <!-- Aqui pode ser definido o rodapé -->
+    </footer>
+</body>
+</html>
