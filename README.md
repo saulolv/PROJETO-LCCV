@@ -1,6 +1,6 @@
 # PROJETO-LCCV
 
-Aplicação desenvolvida para cumprimento de desafio solicitado pelo LCCV.
+Aplicação back-end utilizando Django/Python desenvolvida para cumprimento de desafio solicitado pelo LCCV.
 
 
 Para acessar o Admin:
