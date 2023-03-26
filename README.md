@@ -8,6 +8,6 @@ User: saulolv
 ;
 password: saulo123
 
-Foi usado o banco de dados PostGreSQL, hospedado em localhost
+Foi usado o banco de dados PostGreSQL, hospedado em localhost.
 
-A Documentação da API também está disponibilizada, foi usado a drf_yasg para a construç
+A Documentação da API também está disponibilizada, foi usado a drf_yasg para a construção.
